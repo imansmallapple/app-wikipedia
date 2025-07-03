@@ -52,8 +52,7 @@
         "pages": [
           "pages/index/index",
           "pages/article/article",
-          "pages/search_results/search_results",
-          "pages/test/test"
+          "pages/search_results/search_results"
         ],
         "name": ".MainAbility",
         "window": {
